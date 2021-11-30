@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(7, 38, 63);
+}
+h1 {
+  color: dodgerblue;
+  text-align: center;
+  font-size: 70px;
+}
+p {
+    color: mediumseagreen;
+    border: 2px solid dodgerblue;
+    padding: 30px;
+    margin: 20px;
+    text-align: justify;
+    font-size: 30px;
+}
